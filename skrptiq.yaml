@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "a36d91eb-8e70-46aa-88a1-7310bc89ec24"
+name: "headline-writing"
+display_name: "Headline Writing"
+description: "Crafts compelling headlines and titles optimised for clicks and clarity"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-headline-writing"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
