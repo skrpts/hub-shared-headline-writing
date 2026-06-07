@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "a36d91eb-8e70-46aa-88a1-7310bc89ec24"
+id: "eef0f2df-0ee2-4b15-b400-ce3cf2193600"
 name: "headline-writing"
 display_name: "Headline Writing"
 description: "Crafts compelling headlines and titles optimised for clicks and clarity"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
